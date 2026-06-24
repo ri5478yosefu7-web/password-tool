@@ -1,0 +1,8 @@
+.resultBox{
+    display:inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 20px;
+    font-weight: bold;
+}
